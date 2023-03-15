@@ -1,6 +1,7 @@
 <ol>
   <li>Auto Close Tag</li>
   <li>Auto Rename Tag</li>
+  <li>Auto Complete Tag</li>
   <li>Code Write Activity Tracker</li>
   <li>colorize</li>
   <li>Formatting Toggle</li>
