@@ -13,4 +13,5 @@
   <li>Path Intellisense</li>
   <li>Prettier - Code formatter</li>
   <li>Russian Language Pack for Visual Studio Code</li>
+  <li>eCSStractor for VSCode</li>
 </ol>
