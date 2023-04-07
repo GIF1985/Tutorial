@@ -14,4 +14,6 @@
   <li>Prettier - Code formatter</li>
   <li>Russian Language Pack for Visual Studio Code</li>
   <li>eCSStractor for VSCode</li>
+   <li>Code Spell Checker</li>
+   <li>Russian - Code Spell Checker</li>
 </ol>
